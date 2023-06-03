@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+:root{
+  font-size: 62,5%;
+}
+
+body{
+  width: 100vw;
+  height: 100vh;
+  background-image: url("../imagens/mountains-universe02.png");
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center;
+  position: relative;
+}
+
+main{
+  position: absolute;
+  top:18.5rem;
+  left:10.2rem
+
+}
+
+main p{
+  width: 64.8rem;
+  color: #E1E1E6;
+}
